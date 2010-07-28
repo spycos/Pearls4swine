@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<liferay-portlet-app>
+  <portlet>
+    <portlet-name>video-view-portlet</portlet-name>
+    <instanceable>true</instanceable>
+  </portlet>
+</liferay-portlet-app>
+
